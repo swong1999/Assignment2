@@ -15,3 +15,4 @@ lastIndexOf()
 Object.keys()
 Object.values()
 
+Each test for the original and our own versions of the method are below each corresponding section
